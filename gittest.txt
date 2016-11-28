@@ -1,2 +1,4 @@
 git master get
 git checkout -b origin/zxcgit
+git push --set-upstream origin origin/zxcgit
+
